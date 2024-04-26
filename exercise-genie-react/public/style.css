@@ -1,0 +1,55 @@
+/* styles.css */
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to right, #84fab0, #8fd3f4); /* Light green/blue gradient */
+  color: #333; /* Darker text color for better contrast */
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.8); /* Slight transparency */
+  border-radius: 8px; /* Rounded corners for the container */
+  padding: 20px; /* Spacing around the content */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+h1 {
+  margin-bottom: 30px; /* Spacing below the header */
+  color: #212529; /* Bootstrap's default dark color */
+}
+
+.workout-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px; /* Adjust the space between the image and the button */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Default primary color */
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Consistent with container shadow */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Darker on hover for interaction */
+}
+
+
+@media (max-width: 768px) {
+  .workout-image {
+      margin-bottom: 10px; /* Less space on smaller screens */
+  }
+}
+
+.logo-top-right {
+  position: relative;
+  top: 10px; 
+  left: 45%; 
+  margin-bottom: 10px;
+  margin-top: 25px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  max-width: 150px; 
+  height: auto; 
+  z-index: 1000; 
+}
