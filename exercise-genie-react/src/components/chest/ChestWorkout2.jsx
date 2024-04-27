@@ -9,7 +9,7 @@ function ChestWorkout2() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 2: Push Ups</h1>
-            <img src="/images/pushups.gif" alt="Push ups Exercise" />
+            <img src="/Images/pushups.gif" alt="Push ups Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

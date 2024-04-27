@@ -9,7 +9,7 @@ function BackWorkout1() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 1: Deadlift</h1>
-            <img src="/images/deadlift.gif" alt="Sit-Ups Exercise" />
+            <img src="/Images/deadlift.gif" alt="Sit-Ups Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

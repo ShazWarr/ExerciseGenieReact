@@ -9,7 +9,7 @@ function BackWorkout3() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 3: Wide-Grip Pullup</h1>
-            <img src="/images/pullup.gif" alt="Pull up Exercise" />
+            <img src="/Images/pullup.gif" alt="Pull up Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

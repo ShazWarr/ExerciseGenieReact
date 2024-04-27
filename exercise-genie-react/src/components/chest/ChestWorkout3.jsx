@@ -9,7 +9,7 @@ function ChestWorkout3() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 3: Dumbbell Press</h1>
-            <img src="/images/dumbbell press.gif" alt="Dumbbell Press Exercise" />
+            <img src="/Images/dumbbell press.gif" alt="Dumbbell Press Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

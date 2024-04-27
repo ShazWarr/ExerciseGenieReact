@@ -9,7 +9,7 @@ function LegsWorkout2() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 2: Bicep Curls</h1>
-            <img src="/images/bicepcurls.gif" alt="Bicep Curls" />
+            <img src="/Images/bicepcurls.gif" alt="Bicep Curls" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

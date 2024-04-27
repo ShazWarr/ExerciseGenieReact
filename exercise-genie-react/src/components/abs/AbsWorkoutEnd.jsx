@@ -7,7 +7,7 @@ function AbsWorkoutEnd() {
   return (
     <div className="container text-center mt-5">
       <h3>Again?</h3>
-      <img src="/images/adam.gif" alt="BenchPress Exercise" />
+      <img src="/Images/adam.gif" alt="BenchPress Exercise" />
       <h1>Abs Workout Complete!</h1>
       
       <button className="btn btn-info" onClick={() => navigate("/abs-start")}>

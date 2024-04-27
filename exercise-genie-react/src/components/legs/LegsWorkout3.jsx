@@ -9,7 +9,7 @@ function LegsWorkout3() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 3: Jumprope</h1>
-            <img src="/images/jumprope.gif" alt="Jumprope" />
+            <img src="/Images/jumprope.gif" alt="Jumprope" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>
