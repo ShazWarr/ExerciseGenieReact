@@ -9,7 +9,7 @@ function LegsWorkout1() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 1: Barbell Squats</h1>
-            <img src="/images/barbellsquats.gif" alt="Barbell Squats Exercise" />
+            <img src="/Images/barbellsquats.gif" alt="Barbell Squats Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

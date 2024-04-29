@@ -9,7 +9,7 @@ function AbsWorkout2() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 2: Twists</h1>
-            <img src="/images/twists.gif" alt="Twists Exercise" />
+            <img src="/Images/twists.gif" alt="Twists Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

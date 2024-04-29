@@ -9,7 +9,7 @@ function BackWorkout2() {
     return (
         <div className="container text-center mt-5">
             <h1>Exercise 2: Bent-Over Row</h1>
-            <img src="/images/bentoverrow.gif" alt="Bent-Over Row Exercise" />
+            <img src="/Images/bentoverrow.gif" alt="Bent-Over Row Exercise" />
             <div style={{ fontSize: '24px', fontWeight: 'bold' }}>
                 {formatTime()}
             </div>

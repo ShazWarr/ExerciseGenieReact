@@ -6,7 +6,7 @@ function LegsWorkoutEnd() {
 
   return (
     <div className="container text-center mt-5">
-      <img src="/images/tysonleg.gif" alt="Jumprope" />
+      <img src="/Images/tysonleg.gif" alt="Jumprope" />
       <h3>GREAT JOB!!!</h3>
       <h1>Legs and Arms Workout Complete!</h1>
 

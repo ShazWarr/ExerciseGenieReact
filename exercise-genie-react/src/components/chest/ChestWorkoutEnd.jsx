@@ -6,7 +6,7 @@ function ChestWorkoutEnd() {
 
   return (
     <div className="container text-center mt-5">
-      <img src="/images/kongchest.gif" alt="BenchPress Exercise" />
+      <img src="/Images/kongchest.gif" alt="BenchPress Exercise" />
       <h3>You'll be ready to fight Godzilla soon...</h3>
       <h1>Chest Workout Complete!</h1>
       
